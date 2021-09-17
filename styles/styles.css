@@ -1,0 +1,16 @@
+.heading {
+  background-color: beige;
+  text-align: center;
+  width: 500px;
+  border: solid blueviolet;
+  margin: auto;
+  position: absolute;
+  bottom: 200px;
+  right: 400px;
+}
+header {
+  background-color: darkgray;
+  width: 95%vh;
+  height: 500px;
+  position: relative;
+}
